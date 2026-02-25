@@ -1,0 +1,9 @@
+{
+  "name": "Rovana Luxury Interior Design CMS",
+  "description": "A luxury interior design website and secure management system for Rovana, featuring a portfolio, blog, and contact management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
